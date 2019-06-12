@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class DemoController {
     @GetMapping
     public String demo() {
-        return "Demo Cloud Computing";
+        return "Demo CICD AWS";
     }
 }
